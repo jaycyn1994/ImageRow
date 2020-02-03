@@ -6,5 +6,5 @@ let package = Package(name: "ImageRow",
                       products: [.library(name: "ImageRow",
                                           targets: ["ImageRow"])],
                       targets: [.target(name: "ImageRow",
-                                        path: "Source")],
+                                        path: "Sources")],
                       swiftLanguageVersions: [.v5])
